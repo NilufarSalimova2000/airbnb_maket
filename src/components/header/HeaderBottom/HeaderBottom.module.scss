@@ -1,0 +1,32 @@
+.block {
+    padding: 23px;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    width: 628px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 127%;
+    color: #222;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 127%;
+    color: #717171;
+    padding-left: 17px;
+    border-left: 1px solid #ddd;
+}
